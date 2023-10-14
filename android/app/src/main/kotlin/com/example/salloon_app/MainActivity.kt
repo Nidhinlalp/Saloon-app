@@ -1,0 +1,6 @@
+package com.example.salloon_app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "753458621289",
+    "project_id": "saloon-app-df02f",
+    "storage_bucket": "saloon-app-df02f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753458621289:android:02c74469eac5be124b6bf8",
+        "android_client_info": {
+          "package_name": "com.example.salloon_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753458621289-n0msrubfufm76f6hs1bqac0up7cnj65u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.salloon_app",
+            "certificate_hash": "bb42edcb894c013a02111b50f0ba45fa7786de54"
+          }
+        },
+        {
+          "client_id": "753458621289-rhao8tqn0ic982oiltgn5vqchnduqhek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXeMbqv0JOqm_92_Z0QQLCJ7hl_7U9ezE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753458621289-rhao8tqn0ic982oiltgn5vqchnduqhek.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "753458621289-64kcgn46f294kkl065pj413o16mtaps9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.salloonApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
